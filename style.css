@@ -1,0 +1,56 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+    font-family: 'Staatliches', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+header{
+    background-color: rgb(152, 165, 153);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+header button{
+    background-color: gold;
+    color: rgb(115, 115, 128);
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: #fff solid 2px;
+
+}
+header button:hover{
+    background-color: blueviolet;
+}
+main button{
+    color: dimgray;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+.first {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+    background-image: url(3b486566a2a9b7d16e205894e2f8a5f1.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+    
